@@ -8,10 +8,10 @@ import java.util.Set;
 /**
  * Pretend this is a REST API
  */
-public class ServiceClass {
+public class UserAPI {
     UserService userService = new UserService();
 
-    public ServiceClass() {
+    public UserAPI() {
 
     }
 
